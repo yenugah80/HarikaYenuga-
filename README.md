@@ -1,8 +1,6 @@
-# HarikaYenuga
+#Hi there, I'm Harika Yenuga!
 
-# Hi there 👋, I am Harika Yenuga!
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga-personal-profile)
 
 🎯 Senior Lead Business & Data Analyst | 📊 BI Specialist | ☁️ AWS Certified (2024)
 🎓 Master of Science in Business Analytics, Northwood University with Major Specialization in Data Science
@@ -12,12 +10,27 @@
 - ⚡ Certified AWS Cloud Practitioner 2024  
 - 😊 Enthusiastic about Data Visualization & Analysis and Business Processes  
 - 🧠 Creative problem-solver  
-- 📬 Reach out to me: [harika20y@gmail.com](mailto:harika20y@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harika%20Yenuga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-ye/))  
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-F9D423?style=flat-square&logo=tableau&logoColor=black)](https://public.tableau.com/app/profile/harika.yenuga/vizzes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Harika%20Yenuga-4B9CD3?style=flat-square&logo=vercel&logoColor=white)](https://harika-yenuga.vercel.app/)
-(📄Know about my experiences: [Resume](https://github.com/yenugah80/Resume-HarikaY/raw/main/HARIKAYENUGA.pdf))
 
+## 🚀 Projects & Work
+
+🔹 **Portfolio Website**  
+[![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://harika-yenuga.vercel.app/)
+
+🔹 **Tableau Dashboards**  
+[![Tableau](https://img.shields.io/badge/-My_Tableau_Projects-yellow?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harika.yenuga/vizzes)
+
+---
+
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/-Download_Resume-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/yenugah80/Resume-HarikaY/raw/main/HARIKAYENUGA.pdf)
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikayenuga/)  
+[![Email](https://img.shields.io/badge/-Email_Directly-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harikayenuga@gmail.com)
 
 ---
 
