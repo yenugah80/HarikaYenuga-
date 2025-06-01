@@ -1,8 +1,19 @@
 #Hi there, I'm Harika Yenuga!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga-personal-profile)
+![GitHub followers](https://img.shields.io/github/followers/harikayenuga?style=social) 
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Top Language](https://img.shields.io/github/languages/top/harikayenuga)
+![Repo Size](https://img.shields.io/github/repo-size/harikayenuga)
 
 🎯 Senior Lead Business & Data Analyst | 📊 BI Specialist | ☁️ AWS Certified (2024)
+
+## 🚀 About Me
+
+I am a data powerhouse who doesn’t just *analyze*—I **drive transformation**. With over 6 years leading analytics initiatives across finance, supply chain, healthcare, and tech, I translate complex data into actionable strategies that accelerate business growth and operational excellence. 
+
+I specialize in architecting enterprise-grade BI and AI solutions, automating workflows to save millions, and guiding cross-functional teams to breakthrough outcomes. I’m the bridge between data and decisions, wielding advanced analytics to shape business futures at scale.
+
 🎓 Master of Science in Business Analytics, Northwood University with Major Specialization in Data Science
 🧠 Passionate about turning data into impactful business decisions
 
