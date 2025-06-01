@@ -3,8 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga-personal-profile)
 ![GitHub followers](https://img.shields.io/github/followers/harikayenuga?style=social) 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-![Top Language](https://img.shields.io/github/languages/top/harikayenuga)
-![Repo Size](https://img.shields.io/github/repo-size/harikayenuga)
 
 🎯 Senior Lead Business & Data Analyst | 📊 BI Specialist | ☁️ AWS Certified (2024)
 
@@ -31,6 +29,26 @@ I specialize in architecting enterprise-grade BI and AI solutions, automating wo
 [![Tableau](https://img.shields.io/badge/-My_Tableau_Projects-yellow?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harika.yenuga/vizzes)
 
 ---
+
+**Harika-Yenuga Repository**
+
+![Top Language](https://img.shields.io/github/languages/top/yenugah80/Harika-Yenuga)
+![Repo Size](https://img.shields.io/github/repo-size/yenugah80/Harika-Yenuga)
+
+**SolvingCLASSIFICATIONPROBLEM Repository**
+
+![Top Language](https://img.shields.io/github/languages/top/yenugah80/SolvingCLASSIFICATIONPROBLEM)
+![Repo Size](https://img.shields.io/github/repo-size/yenugah80/SolvingCLASSIFICATIONPROBLEM)
+
+**Customer-Segmentation-with-Clustering-Algorithms Repository**
+
+![Top Language](https://img.shields.io/github/languages/top/yenugah80/Customer-Segmentation-with-Clustering-Algorithms)
+![Repo Size](https://img.shields.io/github/repo-size/yenugah80/Customer-Segmentation-with-Clustering-Algorithms)
+
+**Healthcare-Scenario-Healthy-Living-and-Wellness-Clustering- Repository**
+
+![Top Language](https://img.shields.io/github/languages/top/yenugah80/Healthcare-Scenario-Healthy-Living-and-Wellness-Clustering-)
+![Repo Size](https://img.shields.io/github/repo-size/yenugah80/Healthcare-Scenario-Healthy-Living-and-Wellness-Clustering-)
 
 
 ## 🧠 My Known Professional Skills not limited to these but am eager to learn and contribute more as part of my career and personal growth
