@@ -53,6 +53,25 @@
 ## 🧪 I'm currently working on
 Building a multi-screen mobile app for food/nutrition tracking using React Native, GPT-4o-mini, and Firebase
 
+## 🚀 Current Project: FoodScanPro
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![GPT-4o-mini](https://img.shields.io/badge/-GPT--4o--mini-00AABB?style=flat&logo=chatgpt&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Open Food Facts](https://img.shields.io/badge/-Open%20Food%20Facts-FF6F00?style=flat&logo=foodpanda&logoColor=white)
+
+### Description
+A cutting-edge healthcare mobile app for photo/voice-based meal logging, keto and eco tracking, barcode scanning, and gamified health tracking. Features include:
+- Customizable dashboards
+- Fitness tracker & macro alerts
+- Keto planner with recipes
+- Community support
+
+Leveraging modern tech stack and AI to enhance user health management.
+
+
 Pursuing Alteryx Core Certification
 
 Actively applying for Data Analyst roles across Retail, Healthcare, and Supply Chain
