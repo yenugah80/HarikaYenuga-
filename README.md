@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a data powerhouse who doesn’t just *analyze*—I **drive transformation**. With over 6 years leading analytics initiatives across finance, supply chain, healthcare, and tech, I translate complex data into actionable strategies that accelerate business growth and operational excellence. 
+I am a data powerhouse who doesn’t just *analyze* I **drive transformation**. With over 6 years leading analytics initiatives across finance, supply chain, healthcare, and tech, I translate complex data into actionable strategies that accelerate business growth and operational excellence. 
 
 I specialize in architecting enterprise-grade BI and AI solutions, automating workflows to save millions, and guiding cross-functional teams to breakthrough outcomes. I’m the bridge between data and decisions, wielding advanced analytics to shape business futures at scale.
 
