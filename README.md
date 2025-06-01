@@ -2,7 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga-personal-profile)
 ![GitHub followers](https://img.shields.io/github/followers/yenugah80?style=social)
-![Top Language](https://img.shields.io/github/languages/top/yenugah80/Harika-Yenuga)
 ![Repo Size](https://img.shields.io/github/repo-size/yenugah80/Harika-Yenuga)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-ye/)
 
