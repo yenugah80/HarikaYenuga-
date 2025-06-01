@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/harika-ye/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yenugah80">
+    <img src="https://img.shields.io/github/followers/yenugah80?style=social" alt="GitHub followers">
+  </a>
+  <img src="https://img.shields.io/github/languages/top/yenugah80/Harika-Yenuga" alt="Top Language">
+  <img src="https://img.shields.io/github/repo-size/yenugah80/Harika-Yenuga" alt="Repo Size">
+</p>
+
+
 #Hi there, I'm Harika Yenuga!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga-personal-profile)
