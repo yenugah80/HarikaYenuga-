@@ -5,6 +5,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/yenugah80?style=social)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-ye/)
 
+[![PersonalProfile](https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://harikayenuga.vercel.app/)
+
+
 🎯 Senior Lead Business & Data Analyst | 📊 BI Specialist | ☁️ AWS Certified (2024)
 
 ## 🚀 About Me
