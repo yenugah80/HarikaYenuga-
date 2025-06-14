@@ -32,11 +32,30 @@
 [![PersonalProfile](https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://harikayenuga.vercel.app/)
 
 
-🎯 Senior Lead Business & Data Analyst | 📊 BI Specialist | ☁️ AWS Certified (2024)
 
-## 🚀 About Me
+#  I'm Harika Yenuga — Enterprise Content Management (ECM) Consultant | OpenText Specialist
 
-I am a data powerhouse who doesn’t just *analyze* I **drive transformation**. With over 6 years leading analytics initiatives across finance, supply chain, healthcare, and tech, I translate complex data into actionable strategies that accelerate business growth and operational excellence. 
+🔍 Passionate about solving real-world enterprise challenges using ECM, automation, and data-driven platforms.
+
+With **6+ years** of experience implementing and optimizing **OpenText Content Server**, **AppWorks**, and ECM integrations across industries like **legal, HR, finance, supply chain, and compliance**, I’ve helped Fortune 500 clients like **Apple Inc.** streamline document workflows, enforce security, and ensure audit-readiness.
+
+---
+
+## 🛠️ Core Expertise
+
+- 📁 **Enterprise Content Management**: OpenText Content Server, AppWorks, OTDS, Records Management  
+- 🔒 **Security & Access Control**: SSO integration with Active Directory, OTDS roles, zero-download security policies  
+- 🔄 **Business Process Automation**: Workflow modeling, SLA tracking, lifecycle governance  
+- 📊 **Dashboards & Reporting**: Power BI, Smart UI custom widgets, Magellan  
+- 🔌 **Integrations**: SAP S/4HANA, Oracle EBS, REST/SOAP APIs, SQL Server, Azure Synapse  
+- ☁️ **Cloud & Data Platforms**: Azure, SQL, Object Importer, Storage Provider Admin  
+
+---
+
+## 📈 Recent Projects
+
+- 🏢 **Apple Inc. (via Infosys BPM)**  
+  ECM implementation for Legal, HR & Supply Chain – automated document workflows, integrated OTDS SSO, and developed advanced search templates with audit-compliant RSI and classification setup.
 
 I specialize in architecting enterprise-grade BI and AI solutions, automating workflows to save millions, and guiding cross-functional teams to breakthrough outcomes. I’m the bridge between data and decisions, wielding advanced analytics to shape business futures at scale.
 
@@ -49,9 +68,6 @@ I specialize in architecting enterprise-grade BI and AI solutions, automating wo
 - 🧠 Creative problem-solver  
 
 ## 🚀 Projects & Work
-
-🔹 **Portfolio Website**  
-[![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://harika-yenuga.vercel.app/)
 
 🔹 **Tableau Dashboards**  
 [![Tableau](https://img.shields.io/badge/-My_Tableau_Projects-yellow?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harika.yenuga/vizzes)
