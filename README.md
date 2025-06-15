@@ -15,14 +15,7 @@
 | **Statistical & Analytical**  | ![Regression](https://img.shields.io/badge/-Regression-orange?style=flat-square) ![ANOVA](https://img.shields.io/badge/-ANOVA-6A1B9A?style=flat-square) ![Clustering](https://img.shields.io/badge/-Clustering-2A9D8F?style=flat-square) ![Classification](https://img.shields.io/badge/-Classification-388e3c?style=flat-square) ![Forecasting](https://img.shields.io/badge/-Forecasting-0288d1?style=flat-square) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-00B8D9?style=flat-square) ![Bayesian Inference](https://img.shields.io/badge/-Bayesian_Inference-512da8?style=flat-square) ![Monte Carlo Simulation](https://img.shields.io/badge/-Monte_Carlo_Simulation-FF6F61?style=flat-square) ![Root Cause Analysis](https://img.shields.io/badge/-Root_Cause_Analysis-43A047?style=flat-square) ![Time Series Forecasting](https://img.shields.io/badge/-Time_Series_Forecasting-F77F00?style=flat-square) |
 
 
-## 🧠 My Known Professional Skills not limited to these but am eager to learn and contribute more as part of my career and personal growth
-
----
-
-## 📄 Resume
-
-[![Resume](https://img.shields.io/badge/-Download_Resume-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/yenugah80/Resume-HarikaY/raw/main/HARIKAYENUGA.pdf)
-
+## 🧠 My Known Professional Skills not limited to these but am eager to learn and contribute more as part of my career and personal growth.
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harikayenuga-personal-profile)
@@ -31,86 +24,78 @@
 
 [![PersonalProfile](https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://harikayenuga.vercel.app/)
 
+# 👩‍💼 Harika Yenuga — Senior Data Analyst | Business Intelligence Leader | Data Strategy Partner
 
-
-#  I'm Harika Yenuga — Enterprise Content Management (ECM) Consultant | OpenText Specialist
-
-🔍 Passionate about solving real-world enterprise challenges using ECM, automation, and data-driven platforms.
-
-With **6+ years** of experience implementing and optimizing **OpenText Content Server**, **AppWorks**, and ECM integrations across industries like **legal, HR, finance, supply chain, and compliance**, I’ve helped Fortune 500 clients like **Apple Inc.** streamline document workflows, enforce security, and ensure audit-readiness.
+🔍 I transform fragmented data into business-critical insights.  
+With **6+ years of experience** across **healthcare**, **finance**, **retail**, and **supply chain**, I specialize in building analytical ecosystems that power decision-making, automate reporting, and accelerate digital transformation for different multinational clients.
 
 ---
 
-## 🛠️ Core Expertise
+## 🧠 What I Do
 
-- 📁 **Enterprise Content Management**: OpenText Content Server, AppWorks, OTDS, Records Management  
-- 🔒 **Security & Access Control**: SSO integration with Active Directory, OTDS roles, zero-download security policies  
-- 🔄 **Business Process Automation**: Workflow modeling, SLA tracking, lifecycle governance  
-- 📊 **Dashboards & Reporting**: Power BI, Smart UI custom widgets, Magellan  
-- 🔌 **Integrations**: SAP S/4HANA, Oracle EBS, REST/SOAP APIs, SQL Server, Azure Synapse  
-- ☁️ **Cloud & Data Platforms**: Azure, SQL, Object Importer, Storage Provider Admin  
+As a Senior Data Analyst, I lead end-to-end analytics initiatives—from raw data to executive dashboards. I bridge the gap between business needs and data capabilities, ensuring every metric tracked is tied to a measurable outcome.  
+
+I’ve delivered millions in cost savings, operational efficiencies, and compliance outcomes through advanced dashboards, predictive analytics, and data engineering excellence.
 
 ---
 
-## 📈 Recent Projects
+## 📈 Key Achievements
 
-- 🏢 **Apple Inc. (via Infosys BPM)**  
-  ECM implementation for Legal, HR & Supply Chain – automated document workflows, integrated OTDS SSO, and developed advanced search templates with audit-compliant RSI and classification setup.
+### 🚀 Apple Inc. (via Infosys BPM)
+- Automated BPM dashboards across Legal, HR, and Supply Chain
+- Reduced manual reporting time by **65%** through Power BI and AppWorks integration
+- Built advanced search templates using metadata and classification structures
+- Integrated SSO with OTDS to enforce secure role-based access for 500+ users
 
-I specialize in architecting enterprise-grade BI and AI solutions, automating workflows to save millions, and guiding cross-functional teams to breakthrough outcomes. I’m the bridge between data and decisions, wielding advanced analytics to shape business futures at scale.
+### 💳 Bank of America (via TCS)
+- Led predictive modeling for fraud detection and financial reconciliation
+- Designed and deployed dashboards tracking $10B+ in monthly transactions
+- Delivered NLP-based solutions for fraud pattern detection using Python & SQL
+- Automated ETL workflows with SSIS and Power Query, saving ~1200 hours/year
 
-🎓 Master of Science in Business Analytics, Northwood University with Major Specialization in Data Science
-🧠 Passionate about turning data into impactful business decisions
+### 📦 Aspect Technologies
+- Developed supply chain KPIs & scorecards for vendor evaluation and procurement
+- Built dashboards to monitor contract aging, lead times, SLA breaches
+- Reduced vendor onboarding cycle by **40%** through AppWorks workflow automation
 
-- 🌐 Business Intelligence Analyst with expertise in Tableau, MS Excel, PowerBI, Python, and SQL  
-- ⚡ Certified AWS Cloud Practitioner 2024  
-- 😊 Enthusiastic about Data Visualization & Analysis and Business Processes  
-- 🧠 Creative problem-solver  
+---
 
-## 🚀 Projects & Work
+## 🎓 Education & Credentials
 
-🔹 **Tableau Dashboards**  
-[![Tableau](https://img.shields.io/badge/-My_Tableau_Projects-yellow?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harika.yenuga/vizzes)
+🎓 **M.S. in Business Analytics**, Northwood University – *GPA 3.87*  
+📜 **AWS Certified Cloud Practitioner – 2024**  
+📚 *Pursuing Alteryx Core Certification*  
+🏅 **IEEE & IBAC Presenter**: AI in Retail Optimization & ML-driven Recruitment  
 
+---
 
-## 📬 Get in Touch
+## 🧪 Current Project: FoodScanPro – Health Analytics App
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-ye/)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![GPT-4o-mini](https://img.shields.io/badge/-GPT--4o--mini-00AABB?style=flat&logo=chatgpt&logoColor=white)
+
+A nutrition tracking mobile app integrating AI, barcode scanning, and macro dashboards:
+- Voice/photo-based meal logging
+- Eco impact tracking
+- Gamified health journeys
+- Custom dashboards and macro alerts
+
+---
+
+## 💼 Let’s Collaborate
+
+I’m actively seeking **Senior Data Analyst** and **Data Strategy** roles across **retail**, **healthcare**, and **logistics** domains where I can lead data initiatives that move the needle.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-ye/)  
 [![Email](https://img.shields.io/badge/-Email_Directly-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harika20y@gmail.com)
 
 ---
 
-## 🧪 I'm currently working on
-Building a multi-screen mobile app for food/nutrition tracking using React Native, GPT-4o-mini, and Firebase
+## 💬 Ask Me About
 
-## 🚀 Current Project: FoodScanPro
-
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![GPT-4o-mini](https://img.shields.io/badge/-GPT--4o--mini-00AABB?style=flat&logo=chatgpt&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Open Food Facts](https://img.shields.io/badge/-Open%20Food%20Facts-FF6F00?style=flat&logo=foodpanda&logoColor=white)
-
-### Description
-A cutting-edge healthcare mobile app for photo/voice-based meal logging, keto and eco tracking, barcode scanning, and gamified health tracking. Features include:
-- Customizable dashboards
-- Fitness tracker & macro alerts
-- Keto planner with recipes
-- Community support
-
-Leveraging modern tech stack and AI to enhance user health management.
-
-
-Pursuing Alteryx Core Certification
-
-Actively applying for Data Analyst roles across Retail, Healthcare, and Supply Chain
-
-Publishing research on AI for Retail Optimization and Recruitment
-
-💬 Ask me about
-Scalable BI architecture and automating enterprise workflows
-
-Data visualization best practices
-
-Building ML-powered dashboards
+- KPI Design & Dashboard Storytelling  
+- Workflow Automation with AppWorks  
+- Building Analytics Products from Scratch  
+- BI Strategy in Complex Enterprise Environments
+- No code/LLM APP development
